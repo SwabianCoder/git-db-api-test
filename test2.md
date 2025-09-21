@@ -1,1 +1,1 @@
-my new file contents
+{"key":"Hello world"}
