@@ -1,1 +1,1 @@
-{  "key": "value" }
+{ Committer = Octokit.Committer, Author = Octokit.Signature, Content = {"foo":"bar"} }
